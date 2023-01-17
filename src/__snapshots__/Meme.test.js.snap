@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Meme"
+    id="foo"
+  >
+    <div
+      class="container"
+    >
+      <span
+        class="top-text"
+      >
+        I can haz
+      </span>
+      <img
+        alt="a meme"
+        src="https://i.ytimg.com/vi/I7jgu-8scIA/maxresdefault.jpg"
+      />
+      <span
+        class="bottom-text"
+      >
+        react tests
+      </span>
+      <button
+        id="meme_deleteBtn"
+      >
+        DELETE
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

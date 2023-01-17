@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<NewMemeForm /> basics matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <h2>
+      Make a New Meme
+    </h2>
+    <form>
+      <label
+        for="url"
+      >
+        Image URL
+      </label>
+      <input
+        id="form_url"
+        name="url"
+        type="text"
+        value=""
+      />
+      <label
+        for="topText"
+      >
+        Top Text
+      </label>
+      <input
+        id="form_topText"
+        name="topText"
+        type="text"
+        value=""
+      />
+      <label
+        for="bottomText"
+      >
+        Bottom Text
+      </label>
+      <input
+        id="form_bottomText"
+        name="bottomText"
+        type="text"
+        value=""
+      />
+      <button
+        id="form_submit"
+        type="submit"
+      >
+        Generate Meme!
+      </button>
+    </form>
+  </div>
+</DocumentFragment>
+`;
